@@ -1,0 +1,18 @@
+ /*************************************************************/ 
+/*                Estilo para styledtext.html                 */
+/*                       Versión: 1.0                         */
+/**************************************************************/
+  
+  
+  
+  /*Selectores de etiqueta*/
+  body {background-color: black;
+    color: white;}
+    h2 {color: salmon;}
+    /*Selector de id, único*/
+    #encabezadop1 {text-align: right;} /*Para que el titulo del parrafo 1 se ponga a la derecha*/
+    /*Selector de class, colectivo*/
+    .centrado {text-align: center;}
+    /*Selector contrxtual, añade contexto, más de un selector separados con espacios*/
+    b {color: red;}
+    
